@@ -1,7 +1,8 @@
+---
 - id: last_update
   translation: Last updated
 - id: phone
-  translation: Phone
+  translation: 'Phone: 935-332-2345'
 - id: email
   translation: Email
 - id: location
