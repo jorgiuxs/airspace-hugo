@@ -1,6 +1,6 @@
 ---
-title: "Service"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Service
+description: Electrical Engineering and Design for Control and automation systems.
+bg_image: images/featue-bg.jpg
+
 ---
